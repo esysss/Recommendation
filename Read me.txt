@@ -1,0 +1,5 @@
+Manual:
+
+Main1: without using graph
+Main2: using classical machine learning when the user likes a movie or not
+Main3: 
